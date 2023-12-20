@@ -1,0 +1,18 @@
+{
+  "first_name": "Taimoor",
+  "last_name": "Pasha",
+  "password": "Test@12345",
+  "day": 18,
+  "month": "March",
+  "year": "1989",
+  "company": "Testing Company",
+  "address_one": "House no 123",
+  "address_two": "Lane 23, Sector C",
+  "country": "Canada",
+  "state": "Ontario",
+  "city": "Ottawa",
+  "zip_code": "K0A 0A8",
+  "mobile_number": "+923218989893",
+  "login_user_email": "login_user_123@test.com",
+  "login_user_name" : "Login User"
+}

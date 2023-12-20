@@ -1,0 +1,5 @@
+{
+    "account_created": "Account Created!",
+    "account_deleted": "Account Deleted!", 
+    "incorrect_credentials_message" : "Your email or password is incorrect!"
+}
