@@ -4,7 +4,7 @@
   "description": "This is Basic Cypress Automation Framework, which will cover both web and API tests.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "triggerAll-UITests-headless" : "npx cypress run cypress/e2e/**/*.js"
   },
   "author": "Taimoor Pasha",
   "license": "ISC",

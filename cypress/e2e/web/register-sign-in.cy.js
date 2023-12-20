@@ -25,7 +25,7 @@ beforeEach(() => {
   home.navigate();
 });
 
-describe("Home Page Test Cases ", () => {
+describe("Register/ LogIn Test Cases ", () => {
   it("Test Case 1: Register User", () => {
     var first_name = userData.first_name;
     var last_name = userData.last_name;
