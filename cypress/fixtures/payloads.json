@@ -1,0 +1,14 @@
+{
+  "login_with_email_password": {
+    "email": "login_user_123@test.com",
+    "password": "Test@12345"
+  },
+  "login_without_email": {
+    "email": null,
+    "password": "Test@12345"
+  },
+  "login_without_password": {
+    "email": "login_user_123@test.com",
+    "password": null
+  }
+}

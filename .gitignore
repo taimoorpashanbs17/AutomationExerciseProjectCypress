@@ -1,1 +1,2 @@
 cypress/results
+cypress/e2e/api/pract.cy.js
